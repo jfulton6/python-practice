@@ -2,7 +2,7 @@
 #these are object references
 
 print("Hello Jacob")
-#unlike c# you don't have to name your variables string, double, decimal, int it does that automatically like var, so you have to be careful
+
 
 first_name = "Ada"
 print(first_name)
